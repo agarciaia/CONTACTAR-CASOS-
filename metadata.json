@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Mensajes DCE San Bernardo",
+  "description": "Asistente para generar mensajes personalizados de WhatsApp para el programa DCE San Bernardo 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
